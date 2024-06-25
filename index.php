@@ -81,13 +81,13 @@ $connection = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);
       <!-- Jumbotron -->
       <div class="jumbotron" style="background-color: #16A085;">
         <h1>CLOUD ELECTIVE 1</h1>
-        <p class="lead">The Payroll and Management System was created through the use of HTML5, BOOTSTRAP, JQUERY, CSS, and PHP which was a server-side programming language.</p>
+        <p class="lead">The Payroll and Management System was created using a combination of HTML5, CSS, JavaScript, PHP, MySQL, and AWS services.</p>
         <p><a data-toggle="modal" class="btn btn-lg btn-success" href="#instructor" role="button">Submitted to:</a></p>
       </div>
 
       <!-- Site footer -->
       <footer class="footer">
-        <p align="center">&copy; All Rights Reserved 2016</p>
+        <p align="center">&copy; All Rights Reserved 2024</p>
         <p align="center">Copyright by <a target="_blank" href="http://www.must.edu.ph" data-show-count="true">Mindanao University of Science and Technology</a></p>
         <p align="center">About the <a target="_blank" href="http://www.facebook.com/colins.sabit">Developer</a></p>
       </footer>
